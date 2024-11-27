@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  fastapi_1:
+    build:
+      context: .
+    container_name: fastapi_wordpress_automation
+    command: uvicorn fastapi-wordpress-automation:app --host 0.0.0.0 --port 8080
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+
+  fastapi_2:
+    build:
+      context: .
+    container_name: fastapi_shell-automation
+    command: uvicorn fastapi-shell-automation:app --host 0.0.0.0 --port 8200
+    ports:
+      - "8200:8200"
+    volumes:
+      - .:/app

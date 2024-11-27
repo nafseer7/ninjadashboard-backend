@@ -1,0 +1,727 @@
+site_name,username,password,checked_status
+aispacesolutions.com,xtw183876b81,4bebb262e22,Login successful
+aka-news.ru,xtw18387d76d,4bebb262e22,Login successful
+akstrader.ru,xtw183874ade,4bebb262e22,Login successful
+alquileryrenting.com,xtw18387972c,4bebb262e22,Login successful
+amribeau.com,wordpress_administrator,wordpress_administrator,Login successful
+anarkismo.default.helvetius.uk0.bigv.io,CIIUifBwwC,UQsLIYkyni,Error: HTTPSConnectionPool(host='anarkismo.default.helvetius.uk0.bigv.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99680d3d30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+angelball-ufa.ru,admin,admin,Login failed (Status code: 404)
+arhcolor.ru,admin,admin123,Login failed (Status code: 404)
+artunsun.com,xtw18387518f,4bebb262e22,Login successful
+bplighting.com.au,admin,admin123,Error: HTTPSConnectionPool(host='bplighting.com.au', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bplighting.com.au'. (_ssl.c:1129)")))
+catalystdevelopmentllc.com,jjrandall,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='catalystdevelopmentllc.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'catalystdevelopmentllc.com'. (_ssl.c:1129)")))
+catukltd.co.uk,catuk,4bebb262e22,Login successful
+collaroyacupunctureclinic.com.au,CIIUifBwwC,UQsLIYkyni,Error: HTTPSConnectionPool(host='collaroyacupunctureclinic.com.au', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'collaroyacupunctureclinic.com.au'. (_ssl.c:1129)")))
+compstone.ru,admin,admin,Login successful
+couponimperial.com,xtw183877487,4bebb262e22,Error: HTTPSConnectionPool(host='couponimperial.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+cricketwig.com,xtw18387e7da,4bebb262e22,Login failed (Status code: 500)
+davst.com,davst,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='davst.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+dogugunessistemleri.com,admin,123456,Login successful
+eksim.su,admin,adminadmin,Login successful
+flashnewsnow.news,xtw1838744ba,4bebb262e22,Error: HTTPSConnectionPool(host='flashnewsnow.news', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'flashnewsnow.news'. (_ssl.c:1129)")))
+forsunkidiesel.by,admin,password,Login failed (Status code: 403)
+fronthoteis.com.br,usuariomdofront,DH!bYsRn6573$3uk,Login failed (Status code: 403)
+gintzi.graphics,admin,DH!bYsRn6573$3uk,Login successful
+hdvr.fr,xtw183870c61,4bebb262e22,Login failed (Status code: 405)
+hungnamphat.com.vn,xtw183872abb,4bebb262e22,Login failed (Status code: 503)
+hyperpetshop.ir,xtw183875e72,4bebb262e22,Login failed (Status code: 500)
+idcards.kz,support,support,Login successful
+ilikesport.info,xtw1838727f2,4bebb262e22,Login failed (Status code: 403)
+imperial09.ru,admin,1234567890,Error: HTTPSConnectionPool(host='imperial09.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'imperial09.ru'. (_ssl.c:1129)")))
+insadjustingtools.com,xtw183871fc4,4bebb262e22,Login failed (Status code: 406)
+interiorarchitecturedaily.com,xtw1838710a5,4bebb262e22,Login successful
+iplstall.com,xtw1838723d2,4bebb262e22,Login successful
+itk-group.ru,test,123456,Error: HTTPSConnectionPool(host='itk-group.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f99383eadc0>: Failed to resolve 'itk-group.ru' ([Errno 8] nodename nor servname provided, or not known)"))
+jaxonn.tihov.com.ua,admin,qwerty,Login failed (Status code: 403)
+kangapps.com,xtw1838765b9,4bebb262e22,Error: HTTPSConnectionPool(host='kangapps.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+kom-auto.ru,admin,adminadmin,Login successful
+landystore.co.uk,xtw18387f73c,4bebb262e22,Login successful
+lenina100.ru,tester,tester,Login failed (Status code: 403)
+liveummah.org,xtw183872af1,4bebb262e22,Error: HTTPSConnectionPool(host='liveummah.org', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'liveummah.org'. (_ssl.c:1129)")))
+maritime-news.com,xtw18387a7aa,4bebb262e22,Login successful
+mechungkhoan.com,xtw1838726a5,4bebb262e22,Login successful
+mfs.stephenharding.com,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 401)
+mixrootmods.com,xtw183877b76,4bebb262e22,Login failed (Status code: 403)
+msluluwang.com,adibkhan,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='msluluwang.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+nairagator.com,xtw18387d790,4bebb262e22,Login failed (Status code: 406)
+newslenses.com,xtw183874196,4bebb262e22,Login successful
+ngservice.ch,xtw183875387,DH!bYsRn6573$3uk,Login successful
+ocstore.artemyuk.com.ua,admin,123456,Login failed (Status code: 403)
+oktoberglueck.de,wordpress_administrator,wordpress_administrator,Login successful
+os-001.artemyuk.com.ua,admin,123456,Login failed (Status code: 403)
+perkups.coffee,xtw18387+26@outlook.com,DH!bYsRn6573$3uk,Login failed (Status code: 500)
+philtbsociety.org,philtbsociety,DH!bYsRn6573$3uk,Login successful
+razdevalkaclub.ru,xtw183879d53,4bebb262e22,Login successful
+refunits.com,admin,Bitrix*123456,Login failed (Status code: 404)
+retrainingshop.com,xtw1838755f6,4bebb262e22,Login successful
+sagarademel.com,sagara5_wp,DH!bYsRn6573$3uk,Login failed (Status code: 509)
+sayginbeyazesya.com,admin,1,Login successful
+sbikes.co,xtw18387af3d,4bebb262e22,Login successful
+shakshope.com,xtw18387290f,4bebb262e22,Login failed (Status code: 409)
+spk-sg.ru,admin,Bitrix*123456,Error: HTTPSConnectionPool(host='spk-sg.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+stoneagestone.cn,admin,12345678,Login failed (Status code: 404)
+stroybigmag.ru,admin,Bitrix*123456,Login failed (Status code: 404)
+tajnature.tj,admin,Bitrix*123456,Error: HTTPSConnectionPool(host='tajnature.tj', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tedarik.web.tr,admin,admin,Error: HTTPSConnectionPool(host='tedarik.web.tr', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+test.growdon.ru,admin,12345,Error: HTTPSConnectionPool(host='test.growdon.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)')))
+test.patrik.ru,admin,admin,Login failed (Status code: 404)
+texsar.net,admin,123456,Login failed (Status code: 404)
+thefreshvibe.com,xtw183876c0f,4bebb262e22,Login successful
+theosforce.com,support,support,Login failed (Status code: 500)
+tips.rocks,xtw183877ea5,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw18387fbe4,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+vipsuitehotel.com,xtw183871baf,4bebb262e22,Login successful
+xn--80acgg3buckls.xn--p1ai,admin,123456789,Error: HTTPSConnectionPool(host='xn--80acgg3buckls.xn--p1ai', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--80acgg3buckls.xn--p1ai'. (_ssl.c:1129)")))
+xn--uisz2btn222c2k5b.tw,xtw183876f51,4bebb262e22,Login failed (Status code: 403)
+xsdt.mobi,xtw18387de3b,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+yadrinspirt.ru,xtw183872adc,4bebb262e22,Login failed (Status code: 403)
+aispacesolutions.com,xtw183876b81,4bebb262e22,Login successful
+aka-news.ru,xtw18387d76d,4bebb262e22,Login successful
+akstrader.ru,xtw183874ade,4bebb262e22,Login successful
+alquileryrenting.com,xtw18387972c,4bebb262e22,Login successful
+amribeau.com,wordpress_administrator,wordpress_administrator,Login successful
+anarkismo.default.helvetius.uk0.bigv.io,CIIUifBwwC,UQsLIYkyni,Error: HTTPSConnectionPool(host='anarkismo.default.helvetius.uk0.bigv.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99380dfca0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+angelball-ufa.ru,admin,admin,Login failed (Status code: 404)
+arhcolor.ru,admin,admin123,Login failed (Status code: 404)
+artunsun.com,xtw18387518f,4bebb262e22,Login successful
+bplighting.com.au,admin,admin123,Error: HTTPSConnectionPool(host='bplighting.com.au', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bplighting.com.au'. (_ssl.c:1129)")))
+catalystdevelopmentllc.com,jjrandall,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='catalystdevelopmentllc.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'catalystdevelopmentllc.com'. (_ssl.c:1129)")))
+catukltd.co.uk,catuk,4bebb262e22,Login successful
+collaroyacupunctureclinic.com.au,CIIUifBwwC,UQsLIYkyni,Error: HTTPSConnectionPool(host='collaroyacupunctureclinic.com.au', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'collaroyacupunctureclinic.com.au'. (_ssl.c:1129)")))
+compstone.ru,admin,admin,Login successful
+couponimperial.com,xtw183877487,4bebb262e22,Error: HTTPSConnectionPool(host='couponimperial.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+cricketwig.com,xtw18387e7da,4bebb262e22,Login failed (Status code: 500)
+davst.com,davst,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='davst.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)')))
+dogugunessistemleri.com,admin,123456,Login successful
+eksim.su,admin,adminadmin,Login successful
+flashnewsnow.news,xtw1838744ba,4bebb262e22,Error: HTTPSConnectionPool(host='flashnewsnow.news', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'flashnewsnow.news'. (_ssl.c:1129)")))
+forsunkidiesel.by,admin,password,Login failed (Status code: 403)
+fronthoteis.com.br,usuariomdofront,DH!bYsRn6573$3uk,Login failed (Status code: 403)
+gintzi.graphics,admin,DH!bYsRn6573$3uk,Login successful
+hdvr.fr,xtw183870c61,4bebb262e22,Login failed (Status code: 405)
+hungnamphat.com.vn,xtw183872abb,4bebb262e22,Login failed (Status code: 503)
+hyperpetshop.ir,xtw183875e72,4bebb262e22,Login failed (Status code: 500)
+idcards.kz,support,support,Login successful
+ilikesport.info,xtw1838727f2,4bebb262e22,Login failed (Status code: 403)
+imperial09.ru,admin,1234567890,Error: HTTPSConnectionPool(host='imperial09.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'imperial09.ru'. (_ssl.c:1129)")))
+insadjustingtools.com,xtw183871fc4,4bebb262e22,Login failed (Status code: 406)
+interiorarchitecturedaily.com,xtw1838710a5,4bebb262e22,Login successful
+iplstall.com,xtw1838723d2,4bebb262e22,Login successful
+itk-group.ru,test,123456,Error: HTTPSConnectionPool(host='itk-group.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f99383e0cd0>: Failed to resolve 'itk-group.ru' ([Errno 8] nodename nor servname provided, or not known)"))
+jaxonn.tihov.com.ua,admin,qwerty,Login failed (Status code: 403)
+kangapps.com,xtw1838765b9,4bebb262e22,Error: HTTPSConnectionPool(host='kangapps.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+kom-auto.ru,admin,adminadmin,Login successful
+landystore.co.uk,xtw18387f73c,4bebb262e22,Login successful
+lenina100.ru,tester,tester,Login failed (Status code: 403)
+liveummah.org,xtw183872af1,4bebb262e22,Error: HTTPSConnectionPool(host='liveummah.org', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'liveummah.org'. (_ssl.c:1129)")))
+maritime-news.com,xtw18387a7aa,4bebb262e22,Login successful
+mechungkhoan.com,xtw1838726a5,4bebb262e22,Login successful
+mfs.stephenharding.com,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 401)
+mixrootmods.com,xtw183877b76,4bebb262e22,Login failed (Status code: 403)
+msluluwang.com,adibkhan,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='msluluwang.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+nairagator.com,xtw18387d790,4bebb262e22,Login failed (Status code: 406)
+newslenses.com,xtw183874196,4bebb262e22,Login successful
+ngservice.ch,xtw183875387,DH!bYsRn6573$3uk,Login successful
+ocstore.artemyuk.com.ua,admin,123456,Login failed (Status code: 403)
+oktoberglueck.de,wordpress_administrator,wordpress_administrator,Login successful
+os-001.artemyuk.com.ua,admin,123456,Login failed (Status code: 403)
+perkups.coffee,xtw18387+26@outlook.com,DH!bYsRn6573$3uk,Login failed (Status code: 500)
+philtbsociety.org,philtbsociety,DH!bYsRn6573$3uk,Login successful
+razdevalkaclub.ru,xtw183879d53,4bebb262e22,Login successful
+refunits.com,admin,Bitrix*123456,Login failed (Status code: 404)
+retrainingshop.com,xtw1838755f6,4bebb262e22,Login successful
+sagarademel.com,sagara5_wp,DH!bYsRn6573$3uk,Login failed (Status code: 509)
+sayginbeyazesya.com,admin,1,Login successful
+sbikes.co,xtw18387af3d,4bebb262e22,Login successful
+shakshope.com,xtw18387290f,4bebb262e22,Login failed (Status code: 409)
+spk-sg.ru,admin,Bitrix*123456,Error: HTTPSConnectionPool(host='spk-sg.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+stoneagestone.cn,admin,12345678,Login failed (Status code: 404)
+stroybigmag.ru,admin,Bitrix*123456,Login failed (Status code: 404)
+tajnature.tj,admin,Bitrix*123456,Error: HTTPSConnectionPool(host='tajnature.tj', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tedarik.web.tr,admin,admin,Error: HTTPSConnectionPool(host='tedarik.web.tr', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+test.growdon.ru,admin,12345,Error: HTTPSConnectionPool(host='test.growdon.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)')))
+test.patrik.ru,admin,admin,Login failed (Status code: 404)
+texsar.net,admin,123456,Login failed (Status code: 404)
+thefreshvibe.com,xtw183876c0f,4bebb262e22,Login successful
+theosforce.com,support,support,Login failed (Status code: 500)
+tips.rocks,xtw183877ea5,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw18387fbe4,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+vipsuitehotel.com,xtw183871baf,4bebb262e22,Login successful
+xn--80acgg3buckls.xn--p1ai,admin,123456789,Error: HTTPSConnectionPool(host='xn--80acgg3buckls.xn--p1ai', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--80acgg3buckls.xn--p1ai'. (_ssl.c:1129)")))
+xn--uisz2btn222c2k5b.tw,xtw183876f51,4bebb262e22,Login failed (Status code: 403)
+xsdt.mobi,xtw18387de3b,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+yadrinspirt.ru,xtw183872adc,4bebb262e22,Login failed (Status code: 403)
+yourstory.org.uk,admin,admin,Login successful
+1316.sirinov.ru,xtw183876684,4bebb262e22,Login successful
+1anatomy-of-fitness.com,xtw18387853d,4bebb262e22,Login successful
+aistenok76.ru,admin,Bitrix*123456,Login successful
+alphahomehealthservice.com,tony1ed017e54fce653a,DH!bYsRn6573$3uk,Login successful
+art-mast.ru,admin,adminadmin,Login successful
+bioice-krasnoyarsk.ru,admin,admin,Login failed (Status code: 403)
+business-hackathon.ru,admin,adminadmin,Login successful
+cbehindthelens.com,xtw183870773,4bebb262e22,Login successful
+coalregioncanary.com,xtw18387e23b,4bebb262e22,Login failed (Status code: 416)
+cryptocourtyard.com,xtw18387859b,4bebb262e22,Login successful
+designingtheinvisible.co.uk,xtw18387234e,4bebb262e22,Login successful
+dfmais.com.br,xtw183872dea,4bebb262e22,Login successful
+djxinh.com,xtw183870183,4bebb262e22,Login failed (Status code: 500)
+drip.ist,xtw1838773d4,4bebb262e22,Login successful
+fekrbin.com,xtw1838733f3,4bebb262e22,Login successful
+ferostal.by,admin1,admin1,Login failed (Status code: 404)
+filmfilm.net,admin,4bebb262e22,Error: HTTPSConnectionPool(host='filmfilm.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99380bc2e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+firma-demeu.kz,admin,qwerty,Error: HTTPSConnectionPool(host='firma-demeu.kz', port=443): Read timed out. (read timeout=10)
+franchise-novex.ru,admin,adminadmin,Login successful
+freedominternetstore.com,xtw183874910,4bebb262e22,Login successful
+fxcc.ae,xtw18387c91e,4bebb262e22,Login successful
+g2rlogistics.com,041e01d1,first@222!^#GD,Login failed (Status code: 404)
+gimuch.com,xtw18387930b,4bebb262e22,Error: HTTPSConnectionPool(host='gimuch.com', port=443): Read timed out. (read timeout=10)
+gnsnews.co.in,xtw183877da3,4bebb262e22,Login successful
+hookedonshopping.com,xtw183873d58,4bebb262e22,Login successful
+hubsup.ru,admin,adminadmin,Login successful
+installationshowerdoor.com,xtw183877c5f,4bebb262e22,Login successful
+intertech.space,admin,admin,Login failed (Status code: 403)
+jcurranarchitects.com,modxsecure,123123123,Login failed (Status code: 404)
+kartina-5gor.ru,admin2,123456,Error: HTTPSConnectionPool(host='kartina-5gor.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kartina-5gor.ru'. (_ssl.c:1129)")))
+kavoportal.ru,1c_import,1c_import,Login failed (Status code: 404)
+lalibelacoffeecafe.ru,admin,adminadmin,Login failed (Status code: 500)
+land.xn----8sbal3cjanv.xn--p1ai,admin,admin,Error: HTTPSConnectionPool(host='land.xn----8sbal3cjanv.xn--p1ai', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'land.xn----8sbal3cjanv.xn--p1ai'. (_ssl.c:1129)")))
+leflet.ru,admin,admin12345,Login successful
+lustramarket.ru,admin,adminadmin,Login failed (Status code: 404)
+lvmini.com,admin,adminadmin,Login failed (Status code: 404)
+magnat-adler.ru,admin,adminadmin,Login successful
+majewskaprojekt.pl,admin,4bebb262e22,Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+manyapi.ru,bitrix,bitrix,Error: HTTPSConnectionPool(host='manyapi.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'manyapi.ru'. (_ssl.c:1129)")))
+midion.pro,admin,Bitrix*123456,Login failed (Status code: 500)
+milkywaytravel.ru,admin,adminadmin,Login failed (Status code: 403)
+mogconsult.ru,test,123456,Login successful
+moi-zametki.ru,xtw18387f763,4bebb262e22,Login successful
+msrtc-maharashtra.in,xtw1838771b1,4bebb262e22,Login successful
+new.meven.ru,admin,adminadmin,Error: HTTPSConnectionPool(host='new.meven.ru', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+news.media24.ps,xtw18387272e,4bebb262e22,Login failed (Status code: 404)
+ninthoceancrypto.com,xtw183875e13,4bebb262e22,Error: HTTPSConnectionPool(host='ninthoceancrypto.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+opt-tut.ru,bitrix,bitrix,Login failed (Status code: 404)
+orion-detect.ru,admin,adminadmin,Login successful
+oyster-ai.com,xtw183872a51,4bebb262e22,Login successful
+pandacar.ru,admin,123456789,Login successful
+powerpack.ru,admin,adminadmin,Login failed (Status code: 404)
+pressnews.co.in,xtw183879527,4bebb262e22,Login successful
+pro-cto.ru,test,123456,Login successful
+pro100dacha.ru,admin,adminadmin,Login failed (Status code: 404)
+puenteinformativo.com,xtw1838779ed,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+pxty-hxc.ru,admin,adminadmin,Login successful
+ramzysweis.com,xtw18387fc4e,4bebb262e22,Login failed (Status code: 406)
+realbernabeu.com,xtw18387da28,4bebb262e22,Login failed (Status code: 403)
+roomroom.com.cn,admin,123456,Error: HTTPSConnectionPool(host='roomroom.com.cn', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99383e5dc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+sakvoyage34.ru,admin,password,Login successful
+savadotm.ru,admin,admin1,Login successful
+saz-avangard.ru,bitrix,bitrix,Login failed (Status code: 404)
+scuoladiecologia.it,xtw183874dfa,4bebb262e22,Login failed (Status code: 500)
+searchmyvideo.com,xtw18387d397,4bebb262e22,Error: HTTPSConnectionPool(host='searchmyvideo.com', port=443): Read timed out. (read timeout=10)
+sex-empire.by,admin,password,Login failed (Status code: 404)
+shoppingdeals.site,xtw18387b9e0,4bebb262e22,Login successful
+sitwell.ru,admin,adminadmin,Login successful
+socioboom.com,xtw183875a7a,4bebb262e22,Login successful
+svdentstom.ru,admin,adminadmin,Login successful
+technowood.it,wordpress_administrator,wordpress_administrator,Login successful
+tecktastic.com,xtw18387e204,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+travellersplanner.com,admin,123456789,Login failed (Status code: 404)
+trendsbybella.com,xtw183876ca2,4bebb262e22,Login successful
+vfabbiano.ru,admin,adminadmin,Login successful
+villife.ru,admin,adminadmin,Login successful
+vzljot.ru,admin,adminadmin,Login failed (Status code: 404)
+welltraveledbeauty.com,xtw18387de5b,4bebb262e22,Error: HTTPSConnectionPool(host='welltraveledbeauty.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+xn--48-6kcdva5bzb1b4e.xn--p1ai,admin,password,Login failed (Status code: 404)
+xn--80aanabtdwllbmqhpe7sj.xn--p1ai,admin,password,Error: HTTPSConnectionPool(host='xn--80aanabtdwllbmqhpe7sj.xn--p1ai', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99484025b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+xn--80aihgfe4bj8j.xn--p1ai,admin,password,Error: HTTPSConnectionPool(host='xn--80aihgfe4bj8j.xn--p1ai', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--80aihgfe4bj8j.xn--p1ai'. (_ssl.c:1129)")))
+yaklama.ru,xtw18387a537,4bebb262e22,Login failed (Status code: 500)
+yax.idero.tech,idero-tech,4bebb262e22,Login successful
+zuev-studio.ru,admin,adminadmin,Login failed (Status code: 404)
+dev.viziandrei.com,xtw183873bc8,4bebb262e22,Login failed (Status code: 406)
+elrayada.com,xtw18387b91a,4bebb262e22,Login successful
+fairiesandtales.com,wordpress_administrator,wordpress_administrator,Login failed (Status code: 404)
+get-money.su,xtw1838706cf,4bebb262e22,Login successful
+greatfitnessvideos.dietinfoblog.com,xtw183873bee,4bebb262e22,Login failed (Status code: 406)
+modcuisine.com,xtw18387f170,4bebb262e22,Error: HTTPSConnectionPool(host='modcuisine.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+primeiptvhub.com,admin,4bebb262e22,Login failed (Status code: 500)
+rollyselectrical.com.au,xtw18387f2fe,4bebb262e22,Login successful
+stemaxconsult.com,wp_designer,DH!bYsRn6573$3uk,Login failed (Status code: 406)
+triangulovistorias.com.br,xtw183873a93,4bebb262e22,Login failed (Status code: 406)
+webtechmiracle.com,xtw18387f124,4bebb262e22,Login failed (Status code: 406)
+yourlifeyourteam.com,xtw1838716db,4bebb262e22,Login failed (Status code: 406)
+zaxstron.lucorpsoftwaresolutions.com,xtw18387b802,4bebb262e22,Login failed (Status code: 406)
+1anatomy-of-fitness.com,xtw18387853d,4bebb262e22,Login successful
+dfmais.com.br,xtw183872dea,4bebb262e22,Login successful
+hookedonshopping.com,xtw183873d58,4bebb262e22,Login successful
+news.media24.ps,xtw18387272e,4bebb262e22,Login failed (Status code: 404)
+puenteinformativo.com,xtw1838779ed,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+sex-empire.by,admin,password,Login failed (Status code: 404)
+shoppingdeals.site,xtw18387b9e0,4bebb262e22,Login successful
+socioboom.com,xtw183875a7a,4bebb262e22,Login successful
+tecktastic.com,xtw18387e204,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+dcgabriel.org,gabriel19,4bebb262e22,Login successful
+dsclo.shop,admin,123456,Login failed (Status code: 404)
+elicitlifesciences.com,elsciences,4bebb262e22,Login successful
+gharelu-nuskhe.com,xtw1838793b1,4bebb262e22,Login successful
+hairsalon.eu.org,xtw183872e62,4bebb262e22,Login successful
+itlamp.com.ua,admin2,123456,Login successful
+mais.mgik.org,admin,12345678,Login failed (Status code: 403)
+pappydog.com,xtw183870de7,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+preferentialgoods2.com,xtw18387ffae,4bebb262e22,Error: HTTPSConnectionPool(host='preferentialgoods2.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99383fa160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+sgf.mgik.org,admin,12345678,Login failed (Status code: 403)
+spidlesports.com,xtw1838702b1,4bebb262e22,Error: HTTPSConnectionPool(host='spidlesports.com', port=443): Read timed out. (read timeout=10)
+tech-follow.com,xtw18387cd6b,4bebb262e22,Login successful
+aispacesolutions.com,xtw183876b81,4bebb262e22,Login successful
+shakshope.com,xtw18387290f,4bebb262e22,Login failed (Status code: 409)
+topproductsbasket.net,xtw18387fbe4,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387de3b,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+yourstory.org.uk,admin,admin,Login successful
+func.su,admin,123456,Error: HTTPSConnectionPool(host='func.su', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'func.su'. (_ssl.c:1129)")))
+watt-auto.com,admin,123456,Login successful
+asbxstore.com,digitalgreen,4bebb262e22,Login failed (Status code: 403)
+bsynrentcar.lightweb.kr,xtw18387d532,4bebb262e22,Login successful
+entertainmentrecently.com,xtw18387d748,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+ethernews.io,xtw18387e7ac,4bebb262e22,Error: HTTPSConnectionPool(host='ethernews.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+leadsdailydriver.com,xtw18387cb17,4bebb262e22,Login successful
+quantriwebsite.info,xtw1838796b7,4bebb262e22,Login successful
+rocketpainel.com,xtw1838703de,4bebb262e22,Login successful
+shopsupery.com,xtw18387f5d9,4bebb262e22,Login successful
+test1.stomatologiya-viva.com.ua,admin,123456,Login failed (Status code: 403)
+wp123.why3s.tw,xtw18387e1e1,4bebb262e22,Login failed (Status code: 500)
+bayyinahbello.com,xtw183879f15,4bebb262e22,Login failed (Status code: 401)
+biggswonderlandemporium.com,xtw183876c8f,4bebb262e22,Login successful
+bynounah.com,admin,admin,Login failed (Status code: 404)
+cryptonewsdrop.uk,xtw183875561,4bebb262e22,Login successful
+letstravel24.com,xtw18387ce65,4bebb262e22,Error: HTTPSConnectionPool(host='letstravel24.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+mersad.net,xtw18387cade,4bebb262e22,Login failed (Status code: 500)
+sridurgatemple.com,xtw18387+7275@outlook.com,DH!bYsRn6573$3uk,Login successful
+cauveri.org,cauveri,4bebb262e22,Login successful
+cliniconceito.com.br,xtw1838738d6,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+ibeauty.havefun.buzz,xtw183878b02,4bebb262e22,Login successful
+strongestcbdsale.com,xtw18387caa0,4bebb262e22,Login failed (Status code: 500)
+thefosterep.com,scmedia,4bebb262e22,Login successful
+1anatomy-of-fitness.com,xtw1838704bf,4bebb262e22,Login successful
+firma-demeu.kz,admin,qwerty,Login failed (Status code: 404)
+socioboom.com,xtw183875001,4bebb262e22,Login successful
+tecktastic.com,xtw1838745b3,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+dakrea.com,xtw18387587d,4bebb262e22,Login successful
+mendenazer.org,xtw1838741f6,DH!bYsRn6573$3uk,Login failed (Status code: 500)
+pappydog.com,xtw1838727c8,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw1838787f8,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+stark.vim3dexpo.com,admin,123456,Login failed (Status code: 404)
+tech-follow.com,xtw1838794ae,4bebb262e22,Login successful
+92472ceafa.nxcli.net,xtw18387a4bb,4bebb262e22,Login successful
+focusweb.fr,wordpress_administrator,wordpress_administrator,Login failed (Status code: 500)
+preferentialgoods2.com,xtw183877fe0,4bebb262e22,Error: HTTPSConnectionPool(host='preferentialgoods2.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99280483a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+shopindia.es,xtw183874cf3,4bebb262e22,Error: HTTPSConnectionPool(host='shopindia.es', port=443): Read timed out. (read timeout=10)
+xsdt.mobi,xtw183872aac,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+bsynrentcar.lightweb.kr,xtw18387c00b,4bebb262e22,Login successful
+cammlebanon.artprojectdemo.com,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 406)
+ethernews.io,xtw18387aba5,4bebb262e22,Error: HTTPSConnectionPool(host='ethernews.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+rocketpainel.com,xtw1838704ef,4bebb262e22,Login successful
+bayyinahbello.com,xtw18387b2ec,4bebb262e22,Login failed (Status code: 401)
+biggswonderlandemporium.com,xtw183877021,4bebb262e22,Login successful
+cryptonewsdrop.uk,xtw18387eb50,4bebb262e22,Login successful
+letstravel24.com,xtw1838791de,4bebb262e22,Error: HTTPSConnectionPool(host='letstravel24.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+sayginbeyazesya.com,admin,1,Login successful
+cliniconceito.com.br,xtw183872a95,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+dfmais.com.br,xtw18387fac9,4bebb262e22,Login successful
+entertainmentrecently.com,xtw1838750ad,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+ibeauty.havefun.buzz,xtw18387528b,4bebb262e22,Login successful
+leadsdailydriver.com,xtw183877d0b,4bebb262e22,Login successful
+shopsupery.com,xtw183876498,4bebb262e22,Login successful
+crm.stoltumba.su,admin,admin123,Login failed (Status code: 404)
+lvmini.com,admin,adminadmin,Login failed (Status code: 404)
+tecktastic.com,xtw183871371,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+art-teks.shop,123456,123456,Login successful
+dakrea.com,xtw18387fe56,4bebb262e22,Login successful
+pappydog.com,xtw183873381,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw18387277a,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+sapio.cloud,admin,admin123,Login failed (Status code: 404)
+socioboom.com,xtw18387bed2,4bebb262e22,Login successful
+strongestcbdsale.com,xtw18387ec03,4bebb262e22,Login failed (Status code: 500)
+tech-follow.com,xtw183871bab,4bebb262e22,Login successful
+cammlebanon.com,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 406)
+gintzi.graphics,admin,DH!bYsRn6573$3uk,Login successful
+texsar.net,admin,123456,Login failed (Status code: 404)
+topproductsbasket.net,xtw18387116c,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+wonderwoman.co.in,admin,admin,Login failed (Status code: 503)
+xsdt.mobi,xtw183870141,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+bayyinahbello.com,xtw18387c170,4bebb262e22,Login failed (Status code: 401)
+bsynrentcar.lightweb.kr,xtw183879102,4bebb262e22,Login failed (Status code: 503)
+cnn7.xyz,xtw183875af2,4bebb262e22,Login failed (Status code: 401)
+i-looks.com,xtw18387de6f,4bebb262e22,Login failed (Status code: 500)
+dtrfoundation.org,admin,4bebb262e22,Login failed (Status code: 410)
+myeverydaydeal.com,xtw183875280,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+shop.plusspot.eu,admin,admin,Login failed (Status code: 404)
+stoltumba.su,admin,admin123,Error: HTTPSConnectionPool(host='stoltumba.su', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stoltumba.su'. (_ssl.c:1129)")))
+leadsdailydriver.com,xtw183878c28,4bebb262e22,Login successful
+entertainmentrecently.com,xtw18387fde2,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+leadsdailydriver.com,xtw1838752bd,4bebb262e22,Login successful
+shopsupery.com,xtw183875e26,4bebb262e22,Login successful
+cliniconceito.com.br,xtw18387b47b,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+hairsalon.eu.org,xtw1838743d5,4bebb262e22,Login successful
+eksim.su,admin,adminadmin,Login successful
+pappydog.com,xtw18387a3d9,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw18387e793,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+strongestcbdsale.com,xtw18387bbb7,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw18387e437,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+preferentialgoods2.com,xtw183873f54,4bebb262e22,Error: HTTPSConnectionPool(host='preferentialgoods2.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99380bc370>: Failed to establish a new connection: [Errno 61] Connection refused'))
+socioboom.com,xtw18387fc8f,4bebb262e22,Login successful
+tajnature.tj,admin,Bitrix*123456,Error: HTTPSConnectionPool(host='tajnature.tj', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+talanbhp.pl,admin,password,Login failed (Status code: 404)
+tech-follow.com,xtw183871d76,4bebb262e22,Login successful
+tecktastic.com,xtw1838742bf,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+waysac.com.br,xtw18387dd54,4bebb262e22,Error: HTTPSConnectionPool(host='waysac.com.br', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw1838724d1,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+bsynrentcar.lightweb.kr,xtw183876459,4bebb262e22,Login failed (Status code: 503)
+i-looks.com,xtw1838702f8,4bebb262e22,Login failed (Status code: 500)
+genuineshoponline.com,xtw1838777d1,4bebb262e22,Login failed (Status code: 401)
+stonecot.org.uk,xtw183874c89,4bebb262e22,Login successful
+puenteinformativo.com,xtw183878982,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+strongestcbdsale.com,xtw1838795d2,4bebb262e22,Login failed (Status code: 500)
+bplighting.com.au,admin,admin123,Error: HTTPSConnectionPool(host='bplighting.com.au', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bplighting.com.au'. (_ssl.c:1129)")))
+catalystdevelopmentllc.com,jjrandall,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='catalystdevelopmentllc.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'catalystdevelopmentllc.com'. (_ssl.c:1129)")))
+cgtajans.com,admin,123456,Login successful
+gwaithmaes.org,xtw183875c54,4bebb262e22,Login successful
+hyperpetshop.ir,xtw183875e72,4bebb262e22,Login failed (Status code: 500)
+ngservice.ch,xtw183875387,DH!bYsRn6573$3uk,Login successful
+pappydog.com,xtw18387ee90,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tech-follow.com,xtw183877977,4bebb262e22,Login successful
+xsdt.mobi,xtw18387cc4e,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+watch.kg,admin,123456,Login failed (Status code: 500)
+davst.com,davst,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='davst.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+bayyinahbello.com,xtw1838762e6,4bebb262e22,Login failed (Status code: 401)
+entertainmentrecently.com,xtw18387ef84,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+shop.plusspot.eu,Admin,admin,Login failed (Status code: 404)
+zarafshanclinic.ir,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 404)
+jcurranarchitects.com,modxsecure,123123123,Login failed (Status code: 404)
+hairsalon.eu.org,xtw18387af11,4bebb262e22,Login successful
+pappydog.com,xtw183876770,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tech-follow.com,xtw183873d1d,4bebb262e22,Login successful
+xsdt.mobi,xtw18387ccc3,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+hairsalon.eu.org,xtw183873f79,4bebb262e22,Login successful
+pappydog.com,xtw183874672,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tech-follow.com,xtw183879b9d,4bebb262e22,Login successful
+teplowatt.pro,content,content123,Login failed (Status code: 403)
+xsdt.mobi,xtw183874aec,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+bynounah.com,Admin,admin,Login failed (Status code: 404)
+edsfoodstore.com,edfoodsadmin,DH!bYsRn6573$3uk,Login failed (Status code: 404)
+topproductsbasket.net,xtw183879f15,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+mfs.stephenharding.com,CIIUifBwwC,UQsLIYkyni,Login failed (Status code: 401)
+refunits.com,admin,Bitrix*123456,Login failed (Status code: 404)
+mersad.net,xtw1838733a5,4bebb262e22,Login failed (Status code: 500)
+sridurgatemple.com,xtw18387+a2a2@outlook.com,DH!bYsRn6573$3uk,Login successful
+staging.nautica-shop.ro,Admin,admin,Login failed (Status code: 404)
+audiolibroya.com,xtw18387aa1b,4bebb262e22,Login successful
+couponatweb.com,xtw183870def,4bebb262e22,Login failed (Status code: 500)
+divbracket.com,xtw1838748df,4bebb262e22,Login successful
+glubble.com,xtw18387d11b,4bebb262e22,Login failed (Status code: 500)
+investingtodaynews.com,xtw183879474,4bebb262e22,Login failed (Status code: 500)
+omgbulletin.com,xtw1838719f0,4bebb262e22,Login failed (Status code: 500)
+sprawl-busters.com,xtw18387341c,4bebb262e22,Login failed (Status code: 500)
+takfun.ir,xtw18387b13c,4bebb262e22,Login successful
+thefamilyshed.com,xtw1838749d4,4bebb262e22,Login successful
+tinroofdesigns.co,7dc550c8,first@222!^#GD,Error: HTTPSConnectionPool(host='tinroofdesigns.co', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+top-directorio.es,xtw1838752e7,4bebb262e22,Login failed (Status code: 403)
+socialbest.ir,xtw183871a04,4bebb262e22,Login successful
+atelier-cashmere.com,wp1_67fff3709151,4bebb262e22,Login failed (Status code: 500)
+dfmais.com.br,xtw18387f637,4bebb262e22,Login successful
+hairsalon.eu.org,xtw1838788e0,4bebb262e22,Login successful
+msluluwang.com,adibkhan,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='msluluwang.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+pappydog.com,xtw18387b79b,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387a918,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+relook-ta-montre.com,xtw1838780e8,4bebb262e22,Login successful
+aaaviplimos.com,admin,DH!bYsRn6573$3uk,Login failed (Status code: 406)
+gemherald.com,xtw183879af7,4bebb262e22,Login failed (Status code: 403)
+tedarik.web.tr,admin,admin,Error: HTTPSConnectionPool(host='tedarik.web.tr', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))
+benditosamba.com,admin,DH!bYsRn6573$3uk,Login failed (Status code: 406)
+crushingthehairbiz.com,xtw18387848c,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+dfmais.com.br,xtw18387387b,4bebb262e22,Login successful
+pappydog.com,xtw18387d0dd,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387c5bb,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+sosmaires.larevolutiondusourire.net,xtw18387e06d,4bebb262e22,Login failed (Status code: 403)
+tech-follow.com,xtw183872975,4bebb262e22,Login successful
+crownreignco.com,9578a63f,first@222!^#GD,Login successful
+kcjaguar.ch,6e14fdc7,first@222!^#GD,Login successful
+gemherald.com,xtw18387ae1e,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw1838755b6,4bebb262e22,Login successful
+imperiumpn.com,john,DH!bYsRn6573$3uk,Login successful
+pappydog.com,xtw1838764cd,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387498f,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+topproductsbasket.net,xtw1838736a0,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+atelier-cashmere.com,xtw1838739ce,4bebb262e22,Login failed (Status code: 500)
+customcoolerbags.com,wp1_8d9a9e37ad187,4bewbb262e22,Login failed (Status code: 404)
+amribeau.com,wordpress_administrator,wordpress_administrator,Login successful
+sitetest.irenetcora.com,xtw183871049,4bebb262e22,Error: HTTPSConnectionPool(host='sitetest.irenetcora.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sitetest.irenetcora.com'. (_ssl.c:1129)")))
+strongestcbdsale.com,xtw18387c844,4bebb262e22,Login failed (Status code: 500)
+crushingthehairbiz.com,xtw183876974,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+gemherald.com,xtw18387d7cb,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw1838756f1,4bebb262e22,Login successful
+pappydog.com,xtw183878621,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw183876c23,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+patchworksdabebel.com,xtw18387c451,4bebb262e22,Login failed (Status code: 406)
+philtbsociety.org,philtbsociety,DH!bYsRn6573$3uk,Login successful
+topproductsbasket.net,xtw183870a87,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+i-looks.com,xtw1838756b2,4bebb262e22,Login failed (Status code: 500)
+sosmaires.larevolutiondusourire.net,xtw1838714a2,4bebb262e22,Login failed (Status code: 403)
+dani-meble.pl,admin,DH!bYsRn6573$3uk,Login successful
+gemherald.com,xtw18387da35,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw18387f9d8,4bebb262e22,Login successful
+masonsarmsbillinge.co.uk,xtw183870853,4bebb262e22,Error: HTTPSConnectionPool(host='masonsarmsbillinge.co.uk', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+pappydog.com,xtw1838779ea,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387a621,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+i-looks.com,xtw1838780fb,4bebb262e22,Login failed (Status code: 500)
+iniciarbr.com,xtw1838760e6,4bebb262e22,Login failed (Status code: 500)
+roomroom.com.cn,admin,123456,Error: HTTPSConnectionPool(host='roomroom.com.cn', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99383ea700>: Failed to establish a new connection: [Errno 61] Connection refused'))
+gemherald.com,xtw18387039d,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw18387b255,4bebb262e22,Login successful
+letstravel24.com,xtw1838787d7,4bebb262e22,Error: HTTPSConnectionPool(host='letstravel24.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+pappydog.com,xtw183874e21,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387739c,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+biggswonderlandemporium.com,xtw183875270,4bebb262e22,Login successful
+shopsupery.com,xtw18387747d,4bebb262e22,Login successful
+cryptonewsdrop.uk,xtw1838770b0,4bebb262e22,Login successful
+i-looks.com,xtw1838715cf,4bebb262e22,Login failed (Status code: 500)
+puenteinformativo.com,xtw1838776ab,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+triplexsl.es,admin,admin,Error: HTTPSConnectionPool(host='triplexsl.es', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'triplexsl.es'. (_ssl.c:1129)")))
+gemherald.com,xtw18387ebb8,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw183870ade,4bebb262e22,Login successful
+pappydog.com,xtw183875d74,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387fc45,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+biggswonderlandemporium.com,xtw183877a20,4bebb262e22,Login successful
+interiorarchitecturedaily.com,xtw1838710a5,4bebb262e22,Login successful
+dcgabriel.org,gabriel19,DH!bYsRn6573$3uk,Login successful
+i-looks.com,xtw18387384b,4bebb262e22,Login failed (Status code: 500)
+muabannhadat.live,xtw1838723d2,4bebb262e22,Login failed (Status code: 500)
+radiostavanger.no,xtw183874cf7,4bebb262e22,Login successful
+relook-ta-montre.com,xtw1838762b4,4bebb262e22,Login successful
+technoexperience.net,xtw18387bc35,4bebb262e22,Login failed (Status code: 404)
+myeverydaydeal.com,xtw183875e1f,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+caracter360.com,xtw183871e14,4bebb262e22,Login failed (Status code: 404)
+gemherald.com,xtw18387d601,4bebb262e22,Login failed (Status code: 403)
+pappydog.com,xtw183871f7a,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw1838794c8,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+1banmail.com,xtw183876a1a,4bebb262e22,Error: HTTPSConnectionPool(host='1banmail.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+cliniconceito.com.br,xtw183873bca,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+muabannhadat.live,xtw18387fb22,4bebb262e22,Login failed (Status code: 500)
+1anatomy-of-fitness.com,xtw1838741c8,4bebb262e22,Login successful
+dtrfoundation.org,admin,DH!bYsRn6573$3uk,Login failed (Status code: 410)
+myeverydaydeal.com,xtw1838741f1,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+crushingthehairbiz.com,xtw183878b3e,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+gemherald.com,xtw18387e73d,4bebb262e22,Login failed (Status code: 403)
+hookedonshopping.com,xtw183878203,4bebb262e22,Login successful
+pappydog.com,xtw183870cdd,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw18387a860,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+dfmais.com.br,xtw183876a6b,4bebb262e22,Login successful
+fullcirclekennedy.com,xtw183874e59,4bebb262e22,Error: HTTPSConnectionPool(host='fullcirclekennedy.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fullcirclekennedy.com'. (_ssl.c:1129)")))
+michaelkorsoutletstore.cc,xtw18387352e,4bebb262e22,Error: HTTPSConnectionPool(host='michaelkorsoutletstore.cc', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+safe7777.com,xtw183872ce9,4bebb262e22,Error: HTTPSConnectionPool(host='safe7777.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+survivalarmy.com,xtw1838794b5,4bebb262e22,Error: HTTPSConnectionPool(host='survivalarmy.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'survivalarmy.com'. (_ssl.c:1129)")))
+gemherald.com,xtw18387bc45,4bebb262e22,Login failed (Status code: 403)
+hairsalon.eu.org,xtw183873fa1,4bebb262e22,Login successful
+onetravel24.com,xtw1838778cb,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw183870c48,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+xsdt.mobi,xtw1838712ae,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+1anatomy-of-fitness.com,xtw1838719b0,4bebb262e22,Login successful
+hookedonshopping.com,xtw183874ed0,4bebb262e22,Login successful
+myeverydaydeal.com,xtw1838723dc,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+cliniconceito.com.br,xtw18387a02e,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+dfmais.com.br,xtw18387632e,4bebb262e22,Login successful
+modernnews.ir,xtw183870197,4bebb262e22,Login failed (Status code: 500)
+promptgptengineer.com,xtw18387b980,4bebb262e22,Error: HTTPSConnectionPool(host='promptgptengineer.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw1838716c0,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tech-follow.com,xtw18387b832,4bebb262e22,Login successful
+promiana.eu,xtw183878ef9,4bebb262e22,Login successful
+anarkismo.default.helvetius.uk0.bigv.io,CIIUifBwwC,UQsLIYkyni,Error: HTTPSConnectionPool(host='anarkismo.default.helvetius.uk0.bigv.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f99380c34f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+pappydog.com,xtw18387f3c4,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+crushingthehairbiz.com,xtw18387def4,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+gemherald.com,xtw18387cfa0,4bebb262e22,Login failed (Status code: 403)
+hookedonshopping.com,xtw18387dcbf,4bebb262e22,Login successful
+onetravel24.com,xtw183875c10,4bebb262e22,Login failed (Status code: 500)
+xsdt.mobi,xtw18387e44a,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+1anatomy-of-fitness.com,xtw183873bcc,4bebb262e22,Login successful
+hairsalon.eu.org,xtw183875c58,4bebb262e22,Login successful
+myeverydaydeal.com,xtw18387e6be,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+cliniconceito.com.br,xtw183877d50,4bebb262e22,Error: HTTPSConnectionPool(host='cliniconceito.com.br', port=443): Read timed out. (read timeout=10)
+survivalarmy.com,xtw18387ef3d,4bebb262e22,Error: HTTPSConnectionPool(host='survivalarmy.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'survivalarmy.com'. (_ssl.c:1129)")))
+designedimages.net,xtw183872f29,4bebb262e22,Login successful
+ethernews.io,xtw183872bc0,4bebb262e22,Error: HTTPSConnectionPool(host='ethernews.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+kangapps.com,xtw1838765b9,4bebb262e22,Error: HTTPSConnectionPool(host='kangapps.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+mail.frasesdeamores.net,xtw1838772f5,4bebb262e22,Login failed (Status code: 500)
+muabannhadat.live,xtw1838725dc,4bebb262e22,Login failed (Status code: 500)
+i-looks.com,xtw183878bd1,4bebb262e22,Login failed (Status code: 500)
+negativefive.com,xtw18387a6ca,4bebb262e22,Login failed (Status code: 406)
+tech-follow.com,xtw183879725,4bebb262e22,Login successful
+travellersplanner.com,admin,123456789,Login failed (Status code: 404)
+omgbulletin.com,xtw18387e71d,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw18387ef8f,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw18387a448,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+sitetest.irenetcora.com,xtw18387a006,4bebb262e22,Error: HTTPSConnectionPool(host='sitetest.irenetcora.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sitetest.irenetcora.com'. (_ssl.c:1129)")))
+onetravel24.com,xtw183874797,4bebb262e22,Login failed (Status code: 500)
+xsdt.mobi,xtw18387222f,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+1anatomy-of-fitness.com,xtw183870a30,4bebb262e22,Login successful
+gemherald.com,xtw18387b527,4bebb262e22,Login failed (Status code: 403)
+hookedonshopping.com,xtw18387098d,4bebb262e22,Login successful
+myeverydaydeal.com,xtw183870829,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+hairsalon.eu.org,xtw183873b5b,4bebb262e22,Login successful
+top-directorio.es,xtw183876e11,4bebb262e22,Login failed (Status code: 403)
+cliniconceito.com.br,xtw18387c172,4bebb262e22,Login failed (Status code: 503)
+muabannhadat.live,xtw183870224,4bebb262e22,Login failed (Status code: 500)
+elrayada.com,xtw183870954,4bebb262e22,Login successful
+karolejosefabonnet.com,xtw18387414a,4bebb262e22,Error: HTTPSConnectionPool(host='karolejosefabonnet.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+omgbulletin.com,xtw1838768d6,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw183875ddd,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+puenteinformativo.com,xtw18387d1f6,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+onetravel24.com,xtw18387d537,4bebb262e22,Login failed (Status code: 500)
+crushingthehairbiz.com,xtw18387dfce,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+spidlesports.com,xtw18387e678,4bebb262e22,Login failed (Status code: 403)
+xsdt.mobi,xtw18387bbf5,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f99280834c0>, 'Connection to xsdt.mobi timed out. (connect timeout=10)'))
+hookedonshopping.com,xtw18387a7e8,4bebb262e22,Login successful
+myeverydaydeal.com,xtw183875d25,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+1anatomy-of-fitness.com,xtw18387663a,4bebb262e22,Login successful
+tecktastic.com,xtw1838762da,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+gemherald.com,xtw1838787a3,4bebb262e22,Login failed (Status code: 403)
+hyperpetshop.ir,xtw18387b493,4bebb262e22,Login failed (Status code: 500)
+dfmais.com.br,xtw18387db31,4bebb262e22,Login successful
+help4kids.com.ua,xtw18387d342,4bebb262e22,Login failed (Status code: 403)
+mersad.net,xtw18387a730,4bebb262e22,Login failed (Status code: 500)
+promiana.eu,xtw18387ecc0,4bebb262e22,Login successful
+promptgptengineer.com,xtw18387e4b6,4bebb262e22,Error: HTTPSConnectionPool(host='promptgptengineer.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+top-directorio.es,xtw183878576,4bebb262e22,Login failed (Status code: 403)
+investingtodaynews.com,xtw18387e5c1,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw18387aebf,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+carnewsplus.com,xtw183872964,4bebb262e22,Error: HTTPSConnectionPool(host='carnewsplus.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f99580ec970>, 'Connection to carnewsplus.com timed out. (connect timeout=10)'))
+muabannhadat.live,xtw1838751b5,4bebb262e22,Login failed (Status code: 500)
+cliniconceito.com.br,xtw183874633,4bebb262e22,Login failed (Status code: 503)
+feelgoodrealestate.ca,xtw18387a140,4bebb262e22,Login failed (Status code: 500)
+ethernews.io,xtw18387c3e7,4bebb262e22,Error: HTTPSConnectionPool(host='ethernews.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+elrayada.com,xtw183873902,4bebb262e22,Login successful
+caracter360.com,xtw18387098d,4bebb262e22,Login failed (Status code: 404)
+omgbulletin.com,xtw1838710ce,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw18387d1f2,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+onetravel24.com,xtw183877693,4bebb262e22,Login failed (Status code: 500)
+crushingthehairbiz.com,xtw18387e482,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+spidlesports.com,xtw1838773c0,4bebb262e22,Login failed (Status code: 403)
+xsdt.mobi,xtw183870ba3,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xsdt.mobi'. (_ssl.c:1129)")))
+negativefive.com,xtw18387f170,4bebb262e22,Login failed (Status code: 406)
+puenteinformativo.com,xtw18387f8f3,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+hookedonshopping.com,xtw183875887,4bebb262e22,Login successful
+myeverydaydeal.com,xtw18387553e,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+entertainmentrecently.com,xtw18387237b,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+1anatomy-of-fitness.com,xtw18387f858,4bebb262e22,Login successful
+tecktastic.com,xtw18387f33b,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+gemherald.com,xtw18387eaac,4bebb262e22,Login failed (Status code: 403)
+mersad.net,xtw183875824,4bebb262e22,Login failed (Status code: 500)
+hairsalon.eu.org,xtw183872fa6,4bebb262e22,Login successful
+hyperpetshop.ir,xtw18387ca68,4bebb262e22,Login failed (Status code: 500)
+tech-follow.com,xtw183874cca,4bebb262e22,Login successful
+promptgptengineer.com,xtw183877218,4bebb262e22,Error: HTTPSConnectionPool(host='promptgptengineer.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+djxinh.com,xtw183870183,4bebb262e22,Login failed (Status code: 500)
+investingtodaynews.com,xtw1838737da,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw18387a370,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+carnewsplus.com,xtw183876f6a,4bebb262e22,Login successful
+muabannhadat.live,xtw1838703be,4bebb262e22,Login failed (Status code: 500)
+couponatweb.com,xtw1838715c5,4bebb262e22,Login failed (Status code: 500)
+cybermonday-ads.com,xtw183873144,4bebb262e22,Login failed (Status code: 401)
+silver-shop.ir,xtw183870ade,4bebb262e22,Login successful
+socialbest.ir,xtw183873af3,4bebb262e22,Login successful
+cliniconceito.com.br,xtw18387d7df,4bebb262e22,Login failed (Status code: 503)
+omgbulletin.com,xtw18387e135,4bebb262e22,Login failed (Status code: 500)
+pappydog.com,xtw183879313,4bebb262e22,Error: HTTPSConnectionPool(host='pappydog.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+radiostavanger.no,xtw183871bab,4bebb262e22,Login successful
+caracter360.com,xtw18387b608,4bebb262e22,Login failed (Status code: 404)
+knowledgepro.org,xtw183875e59,4bebb262e22,Login failed (Status code: 500)
+onetravel24.com,xtw1838734df,4bebb262e22,Login failed (Status code: 500)
+dfmais.com.br,xtw183872d77,4bebb262e22,Login successful
+crushingthehairbiz.com,xtw18387ebd9,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+spidlesports.com,xtw183874198,4bebb262e22,Error: HTTPSConnectionPool(host='spidlesports.com', port=443): Read timed out. (read timeout=10)
+xsdt.mobi,xtw183875b4a,4bebb262e22,Error: HTTPSConnectionPool(host='xsdt.mobi', port=443): Max retries exceeded with url: /wp-login.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f99383f5a90>, 'Connection to xsdt.mobi timed out. (connect timeout=10)'))
+puenteinformativo.com,xtw183872fed,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+myeverydaydeal.com,xtw18387db90,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tech-follow.com,xtw18387280a,4bebb262e22,Login successful
+promptgptengineer.com,xtw1838727e2,4bebb262e22,Error: HTTPSConnectionPool(host='promptgptengineer.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+djxinh.com,xtw18387f3d2,4bebb262e22,Login failed (Status code: 500)
+investingtodaynews.com,xtw183874f0b,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw183876e91,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+hyperpetshop.ir,xtw18387ee48,4bebb262e22,Login failed (Status code: 500)
+hairsalon.eu.org,xtw183872a39,4bebb262e22,Login successful
+carnewsplus.com,xtw183870ac0,4bebb262e22,Error: HTTPSConnectionPool(host='carnewsplus.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9958103ca0>, 'Connection to carnewsplus.com timed out. (connect timeout=10)'))
+joinappstudio.com,xtw1838789c4,4bebb262e22,Login failed (Status code: 500)
+muabannhadat.live,xtw18387cd99,4bebb262e22,Login failed (Status code: 500)
+gemherald.com,xtw183872b72,4bebb262e22,Login failed (Status code: 403)
+1anatomy-of-fitness.com,xtw18387e0e5,4bebb262e22,Login successful
+couponatweb.com,xtw18387f186,4bebb262e22,Login failed (Status code: 500)
+ethernews.io,xtw1838714c1,4bebb262e22,Error: HTTPSConnectionPool(host='ethernews.io', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+quantriwebsite.info,xtw18387a8d3,4bebb262e22,Login successful
+cauveri.org,cauveri,DH!bYsRn6573$3uk,Login successful
+knowledgepro.org,xtw183872054,4bebb262e22,Login failed (Status code: 500)
+glubble.com,xtw18387675a,4bebb262e22,Login failed (Status code: 500)
+radiostavanger.no,xtw183874e74,4bebb262e22,Login successful
+mihailzadorin.com,admin,123456,Login failed (Status code: 404)
+onetravel24.com,xtw18387eeb6,4bebb262e22,Login failed (Status code: 500)
+i-looks.com,xtw1838705a6,4bebb262e22,Login failed (Status code: 500)
+takfun.ir,xtw18387e91c,4bebb262e22,Login successful
+dfmais.com.br,xtw18387089f,4bebb262e22,Login successful
+gharelu-nuskhe.com,xtw18387bdee,4bebb262e22,Login successful
+crushingthehairbiz.com,xtw183878049,4bebb262e22,Error: HTTPSConnectionPool(host='crushingthehairbiz.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'crushingthehairbiz.com'. (_ssl.c:1129)")))
+oleksiivka.help4kids.com.ua,xtw183877749,4bebb262e22,Error: HTTPSConnectionPool(host='oleksiivka.help4kids.com.ua', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'oleksiivka.help4kids.com.ua'. (_ssl.c:1129)")))
+negativefive.com,xtw183873dde,4bebb262e22,Login failed (Status code: 406)
+puenteinformativo.com,xtw183878210,4bebb262e22,Error: HTTPSConnectionPool(host='puenteinformativo.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+entertainmentrecently.com,xtw18387ddc6,4bebb262e22,Error: HTTPSConnectionPool(host='entertainmentrecently.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tecktastic.com,xtw18387c6ed,4bebb262e22,Error: HTTPSConnectionPool(host='tecktastic.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+thefamilyshed.com,xtw18387be8f,4bebb262e22,Login successful
+promptgptengineer.com,xtw1838746c8,4bebb262e22,Error: HTTPSConnectionPool(host='promptgptengineer.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+djxinh.com,xtw1838747ff,4bebb262e22,Login failed (Status code: 500)
+investingtodaynews.com,xtw18387762f,4bebb262e22,Login failed (Status code: 500)
+topproductsbasket.net,xtw18387258d,4bebb262e22,Error: HTTPSConnectionPool(host='topproductsbasket.net', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+hookedonshopping.com,xtw183875e74,4bebb262e22,Login successful
+myeverydaydeal.com,xtw18387f1e7,4bebb262e22,Error: HTTPSConnectionPool(host='myeverydaydeal.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+michaelkorsoutletstore.cc,xtw183873f24,4bebb262e22,Error: HTTPSConnectionPool(host='michaelkorsoutletstore.cc', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+hairsalon.eu.org,xtw18387b8b2,4bebb262e22,Login successful
+fullcirclekennedy.com,xtw183875c80,4bebb262e22,Error: HTTPSConnectionPool(host='fullcirclekennedy.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fullcirclekennedy.com'. (_ssl.c:1129)")))
+tech-follow.com,xtw183877eac,4bebb262e22,Login successful
+muabannhadat.live,xtw18387cc70,4bebb262e22,Login failed (Status code: 500)
+safe7777.com,xtw183875d39,4bebb262e22,Error: HTTPSConnectionPool(host='safe7777.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+carnewsplus.com,xtw183870ee7,4bebb262e22,Login successful
+leadsdailydriver.com,xtw18387de35,4bebb262e22,Login successful
+divbracket.com,xtw18387796e,4bebb262e22,Login successful
+designedimages.net,xtw18387842f,4bebb262e22,Login successful
+joinappstudio.com,xtw183872e04,4bebb262e22,Login failed (Status code: 500)
+1anatomy-of-fitness.com,xtw18387e25c,4bebb262e22,Login successful
+couponatweb.com,xtw183873722,4bebb262e22,Login failed (Status code: 500)
+socioboom.com,xtw18387e1f9,4bebb262e22,Login successful
+top-directorio.es,xtw183871589,4bebb262e22,Login failed (Status code: 403)
+kangapps.com,xtw183879bd9,4bebb262e22,Error: HTTPSConnectionPool(host='kangapps.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+sprawl-busters.com,xtw18387af9c,4bebb262e22,Login failed (Status code: 500)
+karolejosefabonnet.com,xtw18387eb51,4bebb262e22,Error: HTTPSConnectionPool(host='karolejosefabonnet.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+masonsarmsbillinge.co.uk,xtw183874b8a,4bebb262e22,Error: HTTPSConnectionPool(host='masonsarmsbillinge.co.uk', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)')))
+knowledgepro.org,xtw18387a747,4bebb262e22,Login failed (Status code: 500)
+hyperpetshop.ir,xtw183875129,4bebb262e22,Login failed (Status code: 500)
+glubble.com,xtw1838786d5,4bebb262e22,Login failed (Status code: 500)
+dakrea.com,xtw183876de5,4bebb262e22,Login successful
+quantriwebsite.info,xtw18387fe0c,4bebb262e22,Login successful
+onetravel24.com,xtw1838716a1,4bebb262e22,Login failed (Status code: 500)
+i-looks.com,xtw1838710cc,4bebb262e22,Login failed (Status code: 500)
+takfun.ir,xtw18387dc56,4bebb262e22,Login successful
+fdpo.mgik.org,admin,12345678,Login failed (Status code: 403)
+dfmais.com.br,xtw183878b56,4bebb262e22,Login successful
+gharelu-nuskhe.com,xtw18387a1c9,4bebb262e22,Login successful
+get-money.su,xtw18387d5c9,4bebb262e22,Login successful
+survivalarmy.com,xtw18387b2f6,4bebb262e22,Error: HTTPSConnectionPool(host='survivalarmy.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'survivalarmy.com'. (_ssl.c:1129)")))
+theosforce.com,support,support,Login failed (Status code: 500)
+on-off-systems.com,admin,Bitrix*123456,Login successful
+idcards.kz,support,support,Login successful
+atilayelektronik.com.tr,admin,654321,Login successful
+vashregion.com,test,123456,Error: HTTPSConnectionPool(host='vashregion.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vashregion.com'. (_ssl.c:1129)")))
+lockoutjumpstarts.com,joy_web,DH!bYsRn6573$3uk,Error: HTTPSConnectionPool(host='lockoutjumpstarts.com', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+tajnature.tj,bitrixsupport_871397,bitrixsupport_871397@mail.ru,Error: HTTPSConnectionPool(host='tajnature.tj', port=443): Max retries exceeded with url: /wp-login.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+bayyinahbello.com,professorbello,,Login failed (Status code: 401)
+jeda.top,bitrixsupport_9f5cba,bitrixsupport_9f5cba@mail.ru,Login successful
+larsa.pro,bitrixsupport_916b42,bitrixsupport_916b42@mail.ru,Login successful
+helz.ua,bitrixsupport_86b630,bitrixsupport_86b630@mail.ru,Login successful
+familyprosperity.com,62e12285,first@222!^#GD,Login successful
+iecom.es,wordpress_administrator,wordpress_administrator,Login failed (Status code: 406)
+harp.ua,bitrixsupport_63e102,bitrixsupport_63e102@mail.ru,Login successful
+vhdigital.co,viksh11,DH!bYsRn6573$3uk,Login successful
+itk.group,test,123456,Login failed (Status code: 404)
+activo2030rd.org,3mentes,DH!bYsRn6573$3uk,Login failed (Status code: 406)
