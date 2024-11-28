@@ -1,0 +1,53 @@
+{
+    "family": "ninja-fastapi-task",
+    "requiresCompatibilities": ["FARGATE"],
+    "networkMode": "awsvpc",
+    "executionRoleArn": "arn:aws:iam::676206932961:role/ecsTaskExecutionRole",
+    "containerDefinitions": [
+      {
+        "name": "fastapi_wordpress_automation",
+        "image": "676206932961.dkr.ecr.us-east-1.amazonaws.com/ninjadashboardfastapi_project:fastapi_1",
+        "cpu": 256,
+        "memory": 512,
+        "portMappings": [
+          {
+            "containerPort": 8080,
+            "protocol": "tcp"
+          }
+        ],
+        "essential": true,
+        "command": [
+          "uvicorn",
+          "fastapi-wordpress-automation:app",
+          "--host",
+          "0.0.0.0",
+          "--port",
+          "8080"
+        ]
+      },
+      {
+        "name": "fastapi_shell_automation",
+        "image": "676206932961.dkr.ecr.us-east-1.amazonaws.com/ninjadashboardfastapi_project:fastapi_2",
+        "cpu": 256,
+        "memory": 512,
+        "portMappings": [
+          {
+            "containerPort": 8200,
+            "protocol": "tcp"
+          }
+        ],
+        "essential": true,
+        "command": [
+          "uvicorn",
+          "fastapi-shell-automation:app",
+          "--host",
+          "0.0.0.0",
+          "--port",
+          "8200"
+        ]
+      }
+    ],
+    "cpu": "512",
+    "memory": "1024"
+  }
+  
