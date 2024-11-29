@@ -292,21 +292,70 @@ def login_to_wordpress_in_tab(site_url: str, username: str, password: str):
     except Exception as e:
         print(f"Error in tab {new_tab_index}: {str(e)}")
 
+# @app.post("/login-wordpress/")
+# async def login_wordpress(request: LoginRequest):
+#     """
+#     API endpoint to initiate WordPress login in a new tab of the persistent browser session.
+#     """
+#     site_url = str(request.site_url)  # Convert HttpUrl to string
+#     username = request.username
+#     password = request.password
+
+#     print(f"Starting login process for: {site_url}")
+
+#     # Run the login in a new thread
+#     threading.Thread(target=login_to_wordpress_in_tab, args=(site_url, username, password)).start()
+
+#     return {"message": f"Login process started for {site_url}. A new tab has been opened."}
+
+
 @app.post("/login-wordpress/")
 async def login_wordpress(request: LoginRequest):
     """
-    API endpoint to initiate WordPress login in a new tab of the persistent browser session.
+    API endpoint to log in to WordPress using HTTP requests.
     """
-    site_url = str(request.site_url)  # Convert HttpUrl to string
+    site_url = request.site_url.rstrip("/")  # Ensure no trailing slash
     username = request.username
     password = request.password
 
-    print(f"Starting login process for: {site_url}")
+    try:
+        login_url = f"{site_url}/wp-login.php"
 
-    # Run the login in a new thread
-    threading.Thread(target=login_to_wordpress_in_tab, args=(site_url, username, password)).start()
+        # Simulate the login using requests
+        with requests.Session() as session:
+            payload = {
+                "log": username,
+                "pwd": password,
+                "wp-submit": "Log In",
+                "redirect_to": f"{site_url}/wp-admin/",
+            }
+            headers = {
+                "Content-Type": "application/x-www-form-urlencoded",
+            }
 
-    return {"message": f"Login process started for {site_url}. A new tab has been opened."}
+            # Send the login POST request
+            response = session.post(login_url, data=payload, headers=headers)
+
+            # Check if login was successful by looking for redirect to wp-admin
+            if response.url.endswith("/wp-admin/"):
+                cookies = session.cookies.get_dict()
+                return {
+                    "message": "Login successful",
+                    "admin_url": f"{site_url}/wp-admin/",
+                    "cookies": cookies,
+                }
+
+            # Check for login error message
+            if "login_error" in response.text:
+                return {
+                    "message": "Login failed. Please check your credentials.",
+                    "error": "Invalid username or password.",
+                }
+
+        return {"message": "Unexpected response. Login might have failed."}
+
+    except Exception as e:
+        return {"message": f"An error occurred: {str(e)}"}
 
 
 def check_wordpress_with_selenium(url, username, password):
