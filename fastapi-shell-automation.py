@@ -12,8 +12,22 @@ import tempfile
 import datetime
 from fastapi.middleware.cors import CORSMiddleware
 import requests
+from pymongo import MongoClient
+from bson import ObjectId
+from datetime import datetime
 
 
+
+# MongoDB Configuration
+MONGO_URI = "mongodb+srv://nafseerck:7gbNMNAc5s236F5K@overthetop.isxuv3s.mongodb.net/smaiDB"
+DB_NAME = "ninjadb"
+COLLECTION_NAME = "urls"
+
+
+# Connect to MongoDB
+client = MongoClient(MONGO_URI)
+db = client[DB_NAME]
+collection = db[COLLECTION_NAME]
 
 app = FastAPI()
 
@@ -202,7 +216,7 @@ def process_sites(sites: list, driver_path: str) -> dict:
             driver.quit()
 
     # Use ThreadPoolExecutor for concurrent processing
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=100) as executor:
         executor.map(process_single_site, sites)
 
     return results
@@ -288,3 +302,59 @@ def extract_domain(url: str) -> str:
     except Exception:
         # If URL is invalid, return the full URL for comparison
         return url.lower()
+
+
+
+@app.post("/process-url-mappings/{document_id}")
+async def process_url_mappings(document_id: str):
+    """
+    Process URL mappings from a MongoDB document, filter only working URLs, and update the document.
+    """
+    try:
+        # Fetch the document by ID
+        document = collection.find_one({"_id": ObjectId(document_id)})
+        if not document:
+            raise HTTPException(status_code=404, detail="Document not found.")
+
+        # Extract urlMappings
+        url_mappings = document.get("urlMappings", [])
+        if not url_mappings:
+            raise HTTPException(status_code=400, detail="No URL mappings found in the document.")
+
+        # Extract original URLs from urlMappings
+        original_urls = [url_mapping["original"] for url_mapping in url_mappings if "original" in url_mapping]
+
+        # Process URLs
+        results = process_sites(original_urls, CHROMEDRIVER_PATH)
+        
+        print(results)    
+
+        # Filter urlMappings to include only working URLs
+        working_urls = results["working"]
+        updated_url_mappings = [url_mapping for url_mapping in url_mappings if url_mapping["original"] in working_urls]
+
+        # Update the document in MongoDB, including both urlMappings and status
+        update_result = collection.update_one(
+            {"_id": ObjectId(document_id)},
+            {"$set": {
+                "urlMappings": updated_url_mappings,
+                "status": "processed"  # Change the status to 'processed'
+            }}
+        )
+
+        if update_result.modified_count == 0:
+            raise HTTPException(status_code=500, detail="Failed to update the document.")
+
+        # Fetch the updated document
+        updated_document = collection.find_one({"_id": ObjectId(document_id)})
+
+        # Convert ObjectId and datetime fields for JSON serialization
+        if "_id" in updated_document:
+            updated_document["_id"] = str(updated_document["_id"])
+        if "createdAt" in updated_document and isinstance(updated_document["createdAt"], datetime):
+            updated_document["createdAt"] = updated_document["createdAt"].isoformat()
+
+        return JSONResponse(content={"message": "Document updated successfully.", "updated_document": updated_document})
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
