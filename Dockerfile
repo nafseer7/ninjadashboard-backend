@@ -15,5 +15,5 @@ COPY . .
 EXPOSE 8080
 EXPOSE 8200
 
-# Default command (can be overridden)
+# Default command (can be overridden..)
 CMD ["uvicorn"]

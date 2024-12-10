@@ -383,7 +383,7 @@ async def process_url_mappings(document_id: str):
         if "createdAt" in updated_document and isinstance(updated_document["createdAt"], datetime):
             updated_document["createdAt"] = updated_document["createdAt"].isoformat()
 
-        return JSONResponse(content={"message": "Document updated successfully.", "updated_document": updated_document})
+        return JSONResponse(content={"message": "Document updated successfully..", "updated_document": updated_document})
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
