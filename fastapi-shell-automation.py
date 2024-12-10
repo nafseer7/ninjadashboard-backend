@@ -16,8 +16,7 @@ from pymongo import MongoClient
 from bson import ObjectId
 from datetime import datetime
 from bs4 import BeautifulSoup
-import aiohttp
-import asyncio
+
 
 
 
