@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import WebDriverException, TimeoutException, NoSuchElementException
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 import tempfile
 import datetime
@@ -15,6 +15,9 @@ import requests
 from pymongo import MongoClient
 from bson import ObjectId
 from datetime import datetime
+from bs4 import BeautifulSoup
+import aiohttp
+import asyncio
 
 
 
@@ -41,7 +44,7 @@ app.add_middleware(
 
 
 # Path to ChromeDriver
-CHROMEDRIVER_PATH = "/usr/lib/chromium/chromium-driver"
+CHROMEDRIVER_PATH = "chromedriver.exe"
 
 # Directories for output files
 OUTPUT_DIR = "output_files_shells"
@@ -303,7 +306,40 @@ def extract_domain(url: str) -> str:
         # If URL is invalid, return the full URL for comparison
         return url.lower()
 
+# Function to check if a file input or submit button with value "Upload" is present
+def check_file_input_and_submit(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
 
+        # Find the <input> element with type="file"
+        file_input = soup.find('input', {'type': 'file'})
+
+        # Find the <input> element with type="submit" and value="Upload"
+        submit_button = soup.find('input', {'type': 'submit', 'value': 'Upload'})
+
+        # If either element is found, return the URL
+        if file_input or submit_button:
+            return url
+        else:
+            return None
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error occurred for {url}: {e}")
+        return None
+
+# Function to process URLs concurrently with threading
+def process_urls_concurrently(original_urls, max_workers=50):
+    # Using ThreadPoolExecutor to process URLs with a maximum number of threads
+    with ThreadPoolExecutor(max_workers) as executor:
+        future_to_url = {executor.submit(check_file_input_and_submit, url): url for url in original_urls}
+        results = []
+        for future in as_completed(future_to_url):
+            result = future.result()
+            if result:  # If the URL has the file input element
+                results.append(result)
+        return results
 
 @app.post("/process-url-mappings/{document_id}")
 async def process_url_mappings(document_id: str):
@@ -311,26 +347,19 @@ async def process_url_mappings(document_id: str):
     Process URL mappings from a MongoDB document, filter only working URLs, and update the document.
     """
     try:
-        # Fetch the document by ID
         document = collection.find_one({"_id": ObjectId(document_id)})
         if not document:
             raise HTTPException(status_code=404, detail="Document not found.")
 
-        # Extract urlMappings
         url_mappings = document.get("urlMappings", [])
         if not url_mappings:
             raise HTTPException(status_code=400, detail="No URL mappings found in the document.")
 
-        # Extract original URLs from urlMappings
         original_urls = [url_mapping["original"] for url_mapping in url_mappings if "original" in url_mapping]
 
-        # Process URLs
-        results = process_sites(original_urls, CHROMEDRIVER_PATH)
-        
-        print(results)    
+        working_urls = process_urls_concurrently(original_urls, max_workers=250)
 
         # Filter urlMappings to include only working URLs
-        working_urls = results["working"]
         updated_url_mappings = [url_mapping for url_mapping in url_mappings if url_mapping["original"] in working_urls]
 
         # Update the document in MongoDB, including both urlMappings and status
