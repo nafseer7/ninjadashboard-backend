@@ -356,7 +356,7 @@ async def process_url_mappings(document_id: str):
 
         original_urls = [url_mapping["original"] for url_mapping in url_mappings if "original" in url_mapping]
 
-        working_urls = process_urls_concurrently(original_urls, max_workers=250)
+        working_urls = process_urls_concurrently(original_urls, max_workers=50)
 
         # Filter urlMappings to include only working URLs
         updated_url_mappings = [url_mapping for url_mapping in url_mappings if url_mapping["original"] in working_urls]
