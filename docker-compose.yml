@@ -20,3 +20,14 @@ services:
       - "8200:8200"
     volumes:
       - .:/app
+
+
+  fastapi_2:
+    build:
+      context: .
+    container_name: fastapi_banking-automation
+    command: uvicorn fastapi-banking-automation:app --host 0.0.0.0 --port 8500
+    ports:
+      - "8500:8500"
+    volumes:
+      - .:/app
