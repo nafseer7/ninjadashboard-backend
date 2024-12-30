@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 app = FastAPI()
 
-CHROMEDRIVER_PATH = "chromedriver.exe"
+CHROMEDRIVER_PATH = "chromedriver"
 
 class CardData(BaseModel):
     card_name: str
