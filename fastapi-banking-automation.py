@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 app = FastAPI()
 
-CHROMEDRIVER_PATH = "/usr/bin/chromium-browsers"
+CHROMEDRIVER_PATH = "/usr/local/bin/chromedriver"
 
 class CardData(BaseModel):
     card_name: str
