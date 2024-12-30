@@ -14,7 +14,7 @@ COPY . .
 # Expose ports for the APIs
 EXPOSE 8080
 EXPOSE 8200
-EXPOSE 8800
+EXPOSE 8500
 
 # Default command (can be overridden..)
 CMD ["uvicorn"]

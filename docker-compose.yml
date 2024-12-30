@@ -21,8 +21,7 @@ services:
     volumes:
       - .:/app
 
-
-  fastapi_2:
+  fastapi_3:
     build:
       context: .
     container_name: fastapi_banking-automation
