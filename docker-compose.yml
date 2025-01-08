@@ -5,6 +5,8 @@ services:
     build:
       context: .
     container_name: fastapi_wordpress_automation
+    environment:
+      - CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
     command: uvicorn fastapi-wordpress-automation:app --host 0.0.0.0 --port 8080
     ports:
       - "8080:8080"
@@ -15,6 +17,8 @@ services:
     build:
       context: .
     container_name: fastapi_shell-automation
+    environment:
+      - CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
     command: uvicorn fastapi-shell-automation:app --host 0.0.0.0 --port 8200
     ports:
       - "8200:8200"
@@ -25,8 +29,19 @@ services:
     build:
       context: .
     container_name: fastapi_banking-automation
+    environment:
+      - CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
     command: uvicorn fastapi-banking-automation:app --host 0.0.0.0 --port 8500
     ports:
       - "8500:8500"
     volumes:
       - .:/app
+  
+  chrome:
+    image: selenium/standalone-chrome:latest
+    container_name: chrome
+    ports:
+      - "4444:4444"
+    environment:
+      - SE_OPTS=-host 0.0.0.0
+    restart: always
