@@ -42,7 +42,7 @@ app.add_middleware(
 UPLOAD_DIR = "uploads"
 CLEANED_DIR = "cleaned"
 OUTPUT_DIR = "outputs"
-CHROMEDRIVER_PATH = "chromedriver.exe"
+CHROMEDRIVER_PATH = "/usr/local/bin/chromedriver"
 
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 os.makedirs(CLEANED_DIR, exist_ok=True)

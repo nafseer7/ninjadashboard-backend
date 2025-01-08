@@ -43,7 +43,7 @@ app.add_middleware(
 
 
 # Path to ChromeDriver
-CHROMEDRIVER_PATH = "chromedriver.exe"
+CHROMEDRIVER_PATH = "/usr/local/bin/chromedriver"
 
 # Directories for output files
 OUTPUT_DIR = "output_files_shells"
